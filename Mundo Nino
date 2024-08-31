@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nino Rico</title>
+    <link rel="stylesheet" href="./Resources/CSS/index.css">
+</head>
+<body>
+    <!--Banner Section-->
+    <div class="Banner"
+        <span></span>
+        <img id="small-nino" src="./Resources/ImagesPic/IMG_4065.jpg" alt="">
+        <h1>El Nino Rey</h1>
+        <caption>Lil Nino when he was just a jit, cycling tryna strengthen his legs for a troublesum but rewarding life.</caption>
+        <p>Lil Nino</p>
+        <button>SUBSCRIBE or I'll haunt you!</button>
+    </div>
+    <!--Banner Section-->
+    <div>
+        <span id="kash"> El Nino</span>
+        <p id="a-text">Social Media Dedicated to Lil Nino... and only Lil Nino</p>
+        <form action="">
+            <input type="text"/>
+            <input type="submit" type="value">
+        </form>
+        <div>
+            <ul>
+                <li>
+                    <div></div><span>Yo, Its Nino</span>
+                </li>
+                <li> <div>It's been two weeks since I started learning through <a href="https://www.codecademy.com/learn" target="_blank">CodeAcademy</a> This is the progress I've made so far, I don't know if it's good or not... It don't matter cause Im gone pop it fasho!</div></li>
+                <li><div>Im also a artist, well I make music. The Link below will send you to my Youtube, although I have music on all platforms!</div></li>
+                <li><div><a href="https://www.youtube.com/@shutupnino5474" target="_blank">ShutUpNino</a></div></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
